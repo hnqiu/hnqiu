@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+Greetings!
+I am hnqiu -
+- :mortar_board: PhD candidate in intelligent robotic control
+- :computer: Programmer in computational intelligence
+- :thinking: Passionate learner of computer techniques
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hnqiu&theme=vue&show_icons=true&count_privaate=true&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnqiu&theme=vue&layout=compact)
+
+
+
 <!--
 **hnqiu/hnqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

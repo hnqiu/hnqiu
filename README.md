@@ -7,8 +7,8 @@ I am hnqiu -
 - :thinking: Passionate learner of computer techniques
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hnqiu&theme=vue&show_icons=true&count_privaate=true&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnqiu&theme=vue&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hnqiu&theme=vue&show_icons=true&count_private=true&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnqiu&theme=vue&layout=compact&count_private=true&langs_count=5)
 
 
 

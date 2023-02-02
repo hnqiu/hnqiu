@@ -2,8 +2,8 @@
 
 Greetings!
 I am hnqiu -
-- :mortar_board: PhD candidate in intelligent robotic control
-- :computer: Programmer in computational intelligence
+- :mortar_board: PhD in computational intelligence & autonomous robotics
+- :computer: Software engineer in machine learning systems
 - :thinking: Passionate learner of computer techniques
 
 
